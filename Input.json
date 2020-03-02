@@ -1,0 +1,18 @@
+[
+  {
+    "Inputs": [
+      {
+        "Input": "A B C"
+      },
+      {
+        "Input": "B C E "
+      },
+      {
+        "Input": "C G"
+      },
+      {
+        "Input": "D A "
+      }
+    ]
+  }
+]
